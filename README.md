@@ -1,8 +1,7 @@
 # Autoformer encoder time series
-Autoformer encoder code for predict time series data.
 
 ### I implemented time series prediction using Autoformer's encoder.
-
+Autoformer encoder code for predict time series data.
 Note that series decomp is not used here,
 It was implemented with a focus on applying attention using **autocorrelation**.
 
