@@ -5,3 +5,5 @@ Autoformer_encoder code for predict time series data.
 
 Note that series decomp is not used here,
 It was implemented with a focus on applying attention using **autocorrelation**.
+
+[Autoformer_github](https://github.com/thuml/Autoformer﻿)
