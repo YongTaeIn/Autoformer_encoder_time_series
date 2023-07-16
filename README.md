@@ -1,5 +1,5 @@
 # Autoformer encoder time series
-Autoformer_encoder code for predict time series data.
+Autoformer encoder code for predict time series data.
 
 ### I implemented time series prediction using Autoformer's encoder.
 
